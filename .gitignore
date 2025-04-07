@@ -3,5 +3,7 @@
 /datos/obj
 .DS_Store
 
+
 # Exclude the 'fechas' folder from GitHub
 fechas/
+.vs/
