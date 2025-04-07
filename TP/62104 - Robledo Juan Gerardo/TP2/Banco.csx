@@ -149,7 +149,7 @@ class Banco
     }
 }
 
-// ******* EJECUCIÓN DEL PROGRAMA *********
+// ******* EJECUCIÓN *********
 
 Banco banco = new Banco("Banco UTN");
 
